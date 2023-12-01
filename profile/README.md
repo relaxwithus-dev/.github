@@ -14,7 +14,7 @@ Currently, we are focusing on learning and developing 2D games with various genr
 
 ## 🎮 Relax With Us Member
 
- [![Satrio](https://github.com//EchoXazsk.png?size=150)](https://github.com//EchoXazsk) | [![David](https://github.com/VihazDeveloper.png?size=150)](https://github.com/VihazDeveloper) | [![Zibril](https://github.com//ea-zibrily.png?size=150)](https://github.com//ea-zibrily) | [![Restu](https://github.com//restudo.png?size=150)](https://github.com//restudo)
+ [![Satrio](https://github.com//EchoXazsk.png?size=150)](https://github.com//EchoXazsk) | [![David](https://github.com/ddinhaz.png?size=150)](https://github.com/ddinhaz) | [![Zibril](https://github.com//ea-zibrily.png?size=150)](https://github.com//ea-zibrily) | [![Restu](https://github.com//restudo.png?size=150)](https://github.com//restudo)
 ----|----|----|----
-[Satrio](https://github.com/EchoXazsk) | [David](https://github.com/VihazDeveloper) | [Zibril](https://github.com/ea-zibrily) | [Restu](https://github.com/restudo)
+[Satrio](https://github.com/EchoXazsk) | [David](https://github.com/ddinhaz) | [Zibril](https://github.com/ea-zibrily) | [Restu](https://github.com/restudo)
  Designer | Artist | Programmer | Programmer 
